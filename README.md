@@ -8,6 +8,7 @@
 Skills used:
 * Data manipulation
 * Importing and cleaning data
+* Subquerying
 * Summary statistics
 * Aggregate functions
 * Counting unique values
